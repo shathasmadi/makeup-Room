@@ -1,6 +1,7 @@
 var userName = prompt('what is your name ?');
 var herPudget = prompt('How much the budget?');
 var typeName = prompt('what do you want to do?');
+
 var favStyle = prompt('what is your favourite style!','hairstyle,makeupstyle,nailstyle');
 if(favStyle === 'hairstyle'){
     document.write('<img src="https://i.pinimg.com/originals/45/66/64/456664558f369066dd330a7f485f0fb3.jpg"width=200pxheight=200px />')
